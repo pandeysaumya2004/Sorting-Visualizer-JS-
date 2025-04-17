@@ -49,3 +49,5 @@ HTML: Provides the structure of the user interface.
 CSS: Styles the visualizer and array bars.
 
 JavaScript: Handles the sorting algorithms and animates the sorting process.
+
+### Live Link-  https://pandeysaumya2004.github.io/Sorting-Visualizer-JS-/
